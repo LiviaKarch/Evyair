@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evy Air</title>
+  <style>
+    /* === ZÁKLADNÝ ŠTÝL === */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    /* === HLAVIČKA === */
+    header {
+      text-align: center;
+      padding: 30px 0 10px 0;
+      background-color: white;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    /* LOGO NAD BANEROM */
+    header img.logo {
+      display: block;
+      margin: 0 auto 20px auto;
+      width: 230px;
+      height: auto;
+      filter: drop-shadow(2px 2px 6px rgba(0,0,0,0.5));
+    }
+
+    /* BANER POD LOGOM */
+    header img.banner {
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+      max-width: 1000px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    header h1 {
+      font-size: 48px;
+      margin-top: 25px;
+      color: #222;
+    }
+
+    header p {
+      font-size: 20px;
+      color: #555;
+      margin-top: 5px;
+    }
+
+    /* === NAVIGÁCIA === */
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      padding: 15px 25px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      background-color: #e3f2fd;
+      color: #007bff;
+    }
+
+    /* === HLAVNÁ ČASŤ === */
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+
+    section {
+      margin-bottom: 40px;
+    }
+
+    section h2 {
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 10px;
+      color: #007bff;
+    }
+
+    /* === GALÉRIA === */
+    .image-gallery {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .image-gallery img {
+      width: 45%;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    /* === PÄTIČKA === */
+    footer {
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    /* === RESPONSIVITA === */
+    @media (max-width: 768px) {
+      header img.banner {
+        width: 95%;
+      }
+      header h1 {
+        font-size: 36px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="Logo.svg" alt="Logo Evy Air" class="logo">
+    <img src="Banner2.jpeg" alt="Baner Evy Air" class="banner">
+  </header>
+
+  <nav>
+    <a href="Onas2.html">O nás</a>
+    <a href="sluzby.html">Služby</a>
+    <a href="Pracovneponuky.html">Pracovné ponuky</a>
+    <a href="kontakt.html">Kontakt</a>
+	<a href="Úlohy.html">Úlohy</a>
+  </nav>
+
+  <main>
+    <section id="onas">
+      <h2>O nás</h2>
+      <p>Sme novo vytvorená organizácia a ponúkame zľavnené lety. Okrem toho poskytujeme presun na letisko a možnosť predobjednania potravy počas letu.</p>
+    </section>
+
+    <section id="galeria">
+      <h2>Naše lietadlá</h2>
+      <div class="image-gallery">
+        <img src="Boeing.jpeg" alt="Boeing">
+        <img src="AIRBUS.jpeg" alt="Airbus">
+      </div>
+    </section>
+
+    <section id="kontakt">
+      <h2>Kontakt</h2>
+      <p>Telefón: <a href="tel:0944587863">0944 587 863</a></p>
+      <p>Email: <a href="mailto:Karchovalivia15@gmail.com">Karchovalivia15@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+   Bc.Lívia Karchová MLD_MvLD_Bc_E2023_sk  dátum spracovania stranky 1.11.2025  &copy; 2025 Evy Air | Všetky práva vyhradené
+  </footer>
+
+</body>
+</html>

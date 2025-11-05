@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.66546717"
+     inkscape:cx="397.46514"
+     inkscape:cy="439.54084"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path1"
+       sodipodi:cx="97.807228"
+       sodipodi:cy="160.6265"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.0020278"
+       sodipodi:radius="42.123943"
+       sodipodi:argument="-19.842472"
+       sodipodi:t0="0"
+       d="m 97.807228,160.6265 c 1.152915,-1.76789 2.951882,0.68189 2.938342,1.91622 -0.0367,3.34495 -4.021646,4.72045 -6.770782,3.96046 -4.917561,-1.35944 -6.690883,-7.20493 -4.982592,-11.62535 2.506985,-6.48713 10.427198,-8.70804 16.479914,-6.00471 8.06732,3.60312 10.74443,13.66274 7.02684,21.33448 -4.67821,9.6541 -16.904479,12.7906 -26.189043,8.04896 -11.244852,-5.74277 -14.842434,-20.14968 -9.071088,-31.04361 6.801332,-12.83811 23.397031,-16.8978 35.898171,-10.09321 14.43306,7.85617 18.95553,26.64583 11.11534,40.75274 -8.90853,16.02917 -29.895633,21.01491 -45.607304,12.13746 -17.626121,-9.95917 -23.0755,-33.14617 -13.159583,-50.46187 11.008548,-19.2237 36.397267,-25.13698 55.316427,-14.1817 0.15498,0.0897 0.30939,0.18047 0.46321,0.27219"
+       transform="matrix(1,0.41153139,0,1,3.1807229,-94.849121)"
+       inkscape:transform-center-x="11.530113"
+       inkscape:transform-center-y="-20.291148" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55667px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:48.9458;display:inline;fill:#000080;stroke-width:0.264583"
+       x="99.795181"
+       y="105.36144"
+       id="text1"
+       transform="matrix(3.0831731,0,0,4.1407496,-215.33379,-321.26892)"><tspan
+         x="99.795181"
+         y="105.36144"
+         id="tspan1">EVY AIR </tspan></text>
+  </g>
+</svg>
